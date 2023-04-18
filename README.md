@@ -18,3 +18,7 @@ You can add icons if you want custom ones (icon folders, .png 1280x1280)
 
 
 You'll also want to edit the [background image](./background.png).
+
+Updates:
+1) added theme.conf
+2) added custom logos- ubuntu logo, added win8 logo- windows 11 identified as win8 for some reason
