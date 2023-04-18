@@ -3,21 +3,18 @@ My personal [rEFInd](https://www.rodsbooks.com/refind/)  resource files.
 
  ![Screenshot](https://github.com/Pra-H/custom-bootloader/blob/master/screenshot.png)
 
-### Installation
+
+****Installation****
 
 [Install rEFInd](https://www.rodsbooks.com/refind/installing.html) as you would normally.
 
-Create  `themes` folder in /refined/ paste the contents there.
-
-in /refined edit `refind.conf` and add this as the last line include  `include themes/custom/theme.conf `
-
-
-
-You can add icons if you want custom ones (icon folders, .png 1280x1280)
+1. Find your refind EFI directory, Create a foler named `themes`  inside
+2. Clone this repository or paste the contents there.
+3. Edit `refind.conf` and add this as the last line include  `include themes/custom/theme.conf `
 
 
 
-You'll also want to edit the [background image](./background.png).
+You might want to edit the [background image](./background.png).
 
 Updates:
 1) added theme.conf
