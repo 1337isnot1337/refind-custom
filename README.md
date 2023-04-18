@@ -1,7 +1,7 @@
 
 My personal [rEFInd](https://www.rodsbooks.com/refind/)  resource files.
 
-
+ ![Screenshot](https://github.com/Pra-H/custom-bootloader/blob/master/screenshot.png)
 
 ### Installation
 
