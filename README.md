@@ -1,7 +1,7 @@
 
 My personal [rEFInd](https://www.rodsbooks.com/refind/)  resource files.
 
-![Screenshot](./screenshot.png)
+ ![Screenshot](./screenshot.png)
 
 ### Installation
 
