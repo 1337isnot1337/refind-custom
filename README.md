@@ -8,7 +8,7 @@ My personal [rEFInd](https://www.rodsbooks.com/refind/)  resource files.
 
 [Install rEFInd](https://www.rodsbooks.com/refind/installing.html) as you would normally.
 
-1. Find your refind EFI directory, Create a foler named `themes`  inside
+1. Find your refind EFI directory, Create a folder named `themes`  inside
 2. Clone this repository or paste the contents there.
 3. Edit `refind.conf` and add this as the last line include  `include themes/custom/theme.conf `
 
